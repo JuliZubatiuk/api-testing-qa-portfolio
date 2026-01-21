@@ -25,11 +25,9 @@
               }
             },
             "url": {
-              "raw": "https://fakestoreapi.com/products",
-              "protocol": "https",
+              "raw": "{{WEBSITE_URL}}/products",
               "host": [
-                "fakestoreapi",
-                "com"
+                "{{WEBSITE_URL}}"
               ],
               "path": [
                 "products"
@@ -44,11 +42,9 @@
             "method": "GET",
             "header": [],
             "url": {
-              "raw": "https://fakestoreapi.com/products",
-              "protocol": "https",
+              "raw": "{{WEBSITE_URL}}/products",
               "host": [
-                "fakestoreapi",
-                "com"
+                "{{WEBSITE_URL}}"
               ],
               "path": [
                 "products"
@@ -63,11 +59,9 @@
             "method": "GET",
             "header": [],
             "url": {
-              "raw": "https://fakestoreapi.com/products/1",
-              "protocol": "https",
+              "raw": "{{WEBSITE_URL}}/products/1",
               "host": [
-                "fakestoreapi",
-                "com"
+                "{{WEBSITE_URL}}"
               ],
               "path": [
                 "products",
@@ -83,11 +77,9 @@
             "method": "DELETE",
             "header": [],
             "url": {
-              "raw": "https://fakestoreapi.com/products/2",
-              "protocol": "https",
+              "raw": "{{WEBSITE_URL}}/products/2",
               "host": [
-                "fakestoreapi",
-                "com"
+                "{{WEBSITE_URL}}"
               ],
               "path": [
                 "products",
@@ -112,11 +104,9 @@
               }
             },
             "url": {
-              "raw": "https://fakestoreapi.com/products/2",
-              "protocol": "https",
+              "raw": "{{WEBSITE_URL}}/products/2",
               "host": [
-                "fakestoreapi",
-                "com"
+                "{{WEBSITE_URL}}"
               ],
               "path": [
                 "products",
@@ -137,11 +127,9 @@
             "method": "GET",
             "header": [],
             "url": {
-              "raw": "https://fakestoreapi.com/carts",
-              "protocol": "https",
+              "raw": "{{WEBSITE_URL}}/carts",
               "host": [
-                "fakestoreapi",
-                "com"
+                "{{WEBSITE_URL}}"
               ],
               "path": [
                 "carts"
@@ -165,11 +153,9 @@
               }
             },
             "url": {
-              "raw": "https://fakestoreapi.com/carts",
-              "protocol": "https",
+              "raw": "{{WEBSITE_URL}}/carts",
               "host": [
-                "fakestoreapi",
-                "com"
+                "{{WEBSITE_URL}}"
               ],
               "path": [
                 "carts"
@@ -196,11 +182,9 @@
               }
             },
             "url": {
-              "raw": "https://fakestoreapi.com/carts/5",
-              "protocol": "https",
+              "raw": "{{WEBSITE_URL}}/carts/5",
               "host": [
-                "fakestoreapi",
-                "com"
+                "{{WEBSITE_URL}}"
               ],
               "path": [
                 "carts",
@@ -225,11 +209,9 @@
               }
             },
             "url": {
-              "raw": "https://fakestoreapi.com/carts/4",
-              "protocol": "https",
+              "raw": "{{WEBSITE_URL}}/carts/4",
               "host": [
-                "fakestoreapi",
-                "com"
+                "{{WEBSITE_URL}}"
               ],
               "path": [
                 "carts",
@@ -254,11 +236,9 @@
               }
             },
             "url": {
-              "raw": "https://fakestoreapi.com/carts/6",
-              "protocol": "https",
+              "raw": "{{WEBSITE_URL}}/carts/6",
               "host": [
-                "fakestoreapi",
-                "com"
+                "{{WEBSITE_URL}}"
               ],
               "path": [
                 "carts",
@@ -279,11 +259,9 @@
             "method": "GET",
             "header": [],
             "url": {
-              "raw": "https://fakestoreapi.com/users",
-              "protocol": "https",
+              "raw": "{{WEBSITE_URL}}/users",
               "host": [
-                "fakestoreapi",
-                "com"
+                "{{WEBSITE_URL}}"
               ],
               "path": [
                 "users"
@@ -307,11 +285,9 @@
               }
             },
             "url": {
-              "raw": "https://fakestoreapi.com/users",
-              "protocol": "https",
+              "raw": "{{WEBSITE_URL}}/users",
               "host": [
-                "fakestoreapi",
-                "com"
+                "{{WEBSITE_URL}}"
               ],
               "path": [
                 "users"
@@ -333,11 +309,9 @@
               "raw": "{\n  \"id\": 3,\n  \"username\": \"string\",\n  \"email\": \"string\",\n  \"password\": \"string\"\n}"
             },
             "url": {
-              "raw": "https://fakestoreapi.com/users/5",
-              "protocol": "https",
+              "raw": "{{WEBSITE_URL}}/users/5",
               "host": [
-                "fakestoreapi",
-                "com"
+                "{{WEBSITE_URL}}"
               ],
               "path": [
                 "users",
@@ -362,11 +336,9 @@
               }
             },
             "url": {
-              "raw": "https://fakestoreapi.com/users/2",
-              "protocol": "https",
+              "raw": "{{WEBSITE_URL}}/users/2",
               "host": [
-                "fakestoreapi",
-                "com"
+                "{{WEBSITE_URL}}"
               ],
               "path": [
                 "users",
@@ -386,11 +358,9 @@
               "raw": "{\n  \"id\": 2,\n  \"username\": \"string\",\n  \"email\": \"string\",\n  \"password\": \"string\"\n}"
             },
             "url": {
-              "raw": "https://fakestoreapi.com/users/2",
-              "protocol": "https",
+              "raw": "{{WEBSITE_URL}}/users/2",
               "host": [
-                "fakestoreapi",
-                "com"
+                "{{WEBSITE_URL}}"
               ],
               "path": [
                 "users",
